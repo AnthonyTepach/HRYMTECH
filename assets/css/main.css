@@ -1,0 +1,31 @@
+.footer {
+    position: fixed;
+    left: 397;
+    bottom: 0;
+    text-align: left;
+    
+    max-width: 960px;
+}
+.footer_s {
+  bottom: 0;
+  left: 0;
+  padding: .5rem;
+  background-color: #003657;
+  text-align: center;
+  color: #fff;
+}
+.footer_s .a{
+	color: white;
+}
+.fondoimage{
+	 		background: url('http://www.hdfondos.eu/pictures/2013/0118/1/orig_585765.jpg');
+	 		background-position: fixed;
+}
+.encabezado{
+	padding: 1rem;
+  	background-color: #003657;
+}
+
+.logo{
+	width: 350px;
+}
